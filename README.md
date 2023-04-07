@@ -1,4 +1,4 @@
-# Jsonplaceholder demo Apis
+# Simple CRUD-API with spring-boot
 The Api Guid [Link](https://jsonplaceholder.typicode.com/)
 
 ## Requirements
